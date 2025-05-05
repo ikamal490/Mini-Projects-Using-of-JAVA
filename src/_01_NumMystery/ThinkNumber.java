@@ -1,4 +1,4 @@
-package _1_NumMystery;
+package _01_NumMystery;
 // Guess The Number
 import java.util.Random;
 import java.util.Scanner;
